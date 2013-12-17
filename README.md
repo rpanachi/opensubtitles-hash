@@ -1,4 +1,4 @@
-## opensubtitle-hash
+## opensubtitles-hash
 
 OpenSubtitles file hash calculator
 
